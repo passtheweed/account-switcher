@@ -1,0 +1,7 @@
+{
+  "name": "AccountSwitcher",
+  "description": "Switch between Discord accounts using tokens.",
+  "version": "1.0.0",
+  "entry": "index.tsx",
+  "authors": ["Phoenix"]
+}
